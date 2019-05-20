@@ -2,7 +2,8 @@
 
 # Logs
 logs
-*.log
+*.lo
+g
 
 # Runtime data
 pids
